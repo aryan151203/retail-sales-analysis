@@ -1,3 +1,4 @@
+Introduction
 # 🛍️ Order Data Analysis Project
 
 This project is designed to analyze e-commerce order data using SQL and Python (pandas). It covers insights such as top products by revenue and sales, month-over-month growth, and performance by category and sub-category.
